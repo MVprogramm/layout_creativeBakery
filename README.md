@@ -8,6 +8,6 @@ Implemented landing page according to [Figma design](https://www.figma.com/file/
 - Tablet 1024
 - Mobile (> 320px)
 
-website:
+website: https://mvprogramm.github.io/layout_creativeBakery/
 
 author Michael Valiahmetov
